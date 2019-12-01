@@ -1,0 +1,26 @@
+{
+	"en-US": {
+		"alert_about": "This shortcut generates and updates the Shortcuts database in LaunchCuts. This requires LaunchCuts for iOS.",
+		"alert_generate": "{{COUNT}} shortcuts will be processed. ",
+		"alert_generate_progress": "{{PERCENTAGE}}% complete. {{NUM}} out of {{COUNT}} shortcuts have been processed in {{DURATION}} seconds.",
+		"alert_generate_title": "Generating shortcuts database for LaunchCuts",
+		"alert_shortcuts_map": "Generating the shortcuts map of {{COUNT}} shortcuts will take about {{TIME}} minutes to complete. ",
+		"label_backup_filename": "shortcuts-backup",
+		"menu_about": "About…",
+		"menu_back": "Back",
+		"menu_help": "Help…",
+		"menu_language": "Change Language…",
+		"menu_launchcuts_get": "Get LaunchCuts…",
+		"menu_launchcuts_open": "Open LaunchCuts",
+		"menu_quit": "Quit",
+		"menu_settings": "Settings",
+		"menu_update": "Check for Updates…",
+		"menu_updateShortcuts": "Update Shortcuts…",
+		"menu_updateShortcuts_full": "Full Update",
+		"menu_updateShortcuts_quick": "Quick Update",
+		"menu_updateShortcuts_selected": "Selected Shortcuts",
+		"prompt_settings": "Settings",
+		"prompt_shortcuts": "Choose Shortcuts:",
+		"prompt_updateShortcuts": "Update the database of shortcuts in LaunchCuts."
+	}
+}

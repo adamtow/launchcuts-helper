@@ -30,5 +30,5 @@
 		"prompt_update": "Доступна __VERSION__ версия для __APPNAME__. Хотите скачать ее сейчас?\n\nПатчноут\n\n__NOTES__",
 		"prompt_updateFull": "Перестроить базу данных команд",
 		"prompt_updateShortcuts": "Обновить базу данных команд в __LAUNCHCUTS__."
-	},
+	}
 }

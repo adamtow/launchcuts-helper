@@ -28,7 +28,6 @@
 		"prompt_settings": "Einstellungen",
 		"prompt_shortcuts": "Wählen Sie die Shortcuts aus:",
 		"prompt_update": "__APPNAME__ Version __VERSION__ ist verfügbar. Möchten Sie es jetzt herunterladen?\n\nVersionshinweise\n\n__NOTES__",
-		"prompt_updateFull": "Shortcuts-Datenbank neu erstellen",
-		"prompt_updateShortcuts": "Aktualisieren Sie die Datenbank der Verknüpfungen in __LAUNCHCUTS__."
+		"prompt_updateFull": "__LAUNCHCUTS__: Vollständiges Update"
 	}
 }
